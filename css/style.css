@@ -1,0 +1,12 @@
+ul.ul_tombol {
+  padding: 0;
+  list-style: none;
+}
+li a.btn {
+  float: left;
+}
+
+thead tr {
+  background-color: #0f857f;
+  color: white;
+}
